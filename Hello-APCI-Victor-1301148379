@@ -1,6 +1,11 @@
-1.	Program Hello;
+Program Hello;
 Uses Crt; 
 Begin
-1.	<="" span="" 13.3333px;"="">ClrScr;
-<="" span="">Writeln(‘Hello World’); //untuk mengeluarkan string ‘Hello World’ di layar 
-2.	End.
+Writeln(‘Hello’);//untuk mengeluarkan string ‘Hello’ di layar
+Writeln(‘1301148379’); //Ubah untuk menampilkan NIM Anda
+Writeln(‘Iman susilo’); //Ubah untuk menampilkan Nama Anda
+Writeln(‘IF-39-14’); //Ubah untuk menampilkan Kelas Anda
+Writeln(‘Victor’); //Ubah untuk menampilkan Nama Asprak Anda
+Writeln(‘NIM-kosong-disebelah’); //Ubah untuk menampilkan NIM teman anda
+Writeln(‘Modul 6’); //Ubah untuk menampilkan string ‘Modul 6’
+End.
